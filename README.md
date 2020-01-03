@@ -20,3 +20,8 @@ Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 ## Testing Images
 
 ![](exampleImages/download.jpg)
+![](exampleImages/download-1.jpg)
+![](exampleImages/download-2.jpg)
+![](exampleImages/download-4.jpg)
+![](exampleImages/download-4.jpg)
+![](exampleImages/download-5.jpg)
