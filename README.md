@@ -25,3 +25,6 @@ Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 ![](exampleImages/download-3.jpg)
 ![](exampleImages/download-4.jpg)
 ![](exampleImages/download-5.jpg)
+
+## Libraries Used
+[PyTorch](https://pytorch.org)
